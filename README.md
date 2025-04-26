@@ -1,9 +1,4 @@
 - 👋 Hi, I’m @gokdeniz2107
-- 👀 I’m interested in Foo5ball
-- 🌱 I’m currently learning Code
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 
 
 <!---
